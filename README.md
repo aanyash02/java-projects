@@ -1,6 +1,6 @@
-# 🎓 CodeAlpha Java Programming Internship Projects
+Java Programming Projects
 
-This repository contains two Java applications developed for the **CodeAlpha Java Programming Internship**.
+This repository contains two Java applications.
 
 ---
 
@@ -80,7 +80,7 @@ A Java console application designed to record, manage, and analyze student test 
 
 ## 🧑‍💻 Author
 
-Developed as part of the **CodeAlpha Internship**.
+Developed as part of the Java programming tasks
 * **GitHub:** [@aanyash02](https://github.com/aanyash02)
 
 ```
