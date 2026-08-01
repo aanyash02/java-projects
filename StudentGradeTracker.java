@@ -1,5 +1,5 @@
 import java.util.*;
-public class CodeAlpha_StudentGradeTracker {
+public class StudentGradeTracker {
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
