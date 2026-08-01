@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-public class CodeAlpha_HotelReservationSystem {
+public class HotelReservationSystem {
 
     private static final String url = "jdbc:mysql://localhost:3306/hotel_oro";
     private static final String username = "root";
