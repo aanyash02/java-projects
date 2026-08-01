@@ -3,15 +3,15 @@ Java Programming Projects
 This repository contains two Java applications.
 
 ---
-
 ## 📁 Repository Structure
 
-.
-├── Hotel Reservation System/
-│   └── HotelReservationSystem.java
-├── Student Grade Tracker/
-│   └── StudentGradeTracker.java
+```text
+java-projects/
+├── .gitattributes
+├── HotelReservationSystem.java
+├── StudentGradeTracker.java
 └── README.md
+```
 
 ---
 
